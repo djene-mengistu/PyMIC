@@ -76,8 +76,10 @@ Using PyMIC, it becomes easy to develop deep learning models for different proje
 
 4, [UGIR][ugir] (MICCAI 2020) Uncertainty-guided interactive refinement for medical image segmentation. 
 
+5, [simEps][simEps] (TII 2022) Semi-Supervised Defect Segmentation with Pairwise Similarity Map Consistency and Ensemble-Based Cross-Pseudo Labels. 
+
 [myops]: https://github.com/HiLab-git/MyoPS2020
 [coplenet]:https://github.com/HiLab-git/COPLE-Net
 [hn_gtv]: https://github.com/HiLab-git/Head-Neck-GTV
 [ugir]: https://github.com/HiLab-git/UGIR
-
+[simEps]: https://github.com/djene-mengistu/simEps
